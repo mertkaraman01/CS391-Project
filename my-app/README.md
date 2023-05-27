@@ -10,7 +10,7 @@ Me(Mert Karaman): I have done everything in this project :)
 ## Instructions to run the Project
 1- Download my-app folder and and open project in Visual Studio Code
 
-2- Add node-modules if needed
+2- In my-app directory, open shell or command promt and type "npm install" to install node modules needed for "npm start" command
 
 3- Open commend promt in VSC and type "cd my-app/fakeRestAPI" and then type "run" to run run.bat file, this will start the server
 
