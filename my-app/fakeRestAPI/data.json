@@ -1,0 +1,98 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "name": "Elmali Baraji",
+      "image": "../images/elmaliBaraji.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Longest Night Tour",
+      "image": "../images/longestNightTour.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Heybeli Ada",
+      "image": "../images/heybeliada.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Yesilay Tour",
+      "image": "../images/yesilayTour.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Bosphorus Tour",
+      "image": "../images/bogaz.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "BuyukAda Tour",
+      "image": "../images/buyukada.jpeg"
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Safia Mahoney",
+      "image": "../images/woman1.jpg",
+      "description": "Club President"
+    },
+    {
+      "id": 2,
+      "name": "Effie Cruzal",
+      "image": "../images/woman2.jpg",
+      "description": "Club Vice President"
+    },
+    {
+      "id": 3,
+      "name": "Isabel Knowles",
+      "image": "../images/woman3.jpg",
+      "description": "Event Coordinator"
+    },
+    {
+      "id": 4,
+      "name": "Harriet Castaneda",
+      "image": "../images/woman1.jpg",
+      "description": "Tour Ride Leader"
+    },
+    {
+      "id": 5,
+      "name": "Joel Winter",
+      "image": "../images/man1.jpg",
+      "description": "Social Media Manager"
+    },
+    {
+      "id": 6,
+      "name": "Darren Owen",
+      "image": "../images/man2.jpg",
+      "description": "Club Bike Mechanic"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Tatiana Andrade",
+      "email": "tatianaandrade@gmail.com",
+      "oneword": "fun",
+      "why": "to lose weight",
+      "favorite": "buyukada"
+    },
+    {
+      "id": 2,
+      "name": "Shirley Steele",
+      "email": "shirley@gmail.com",
+      "oneword": "happy",
+      "why": "to have motivation",
+      "favorite": "heybeliada"
+    },
+    {
+      "id": 3,
+      "name": "Hamish Beasley",
+      "email": "hamish@gmail.com",
+      "oneword": "exciting",
+      "why": "to have fun",
+      "favorite": "bogaz"
+    }
+  ]
+}
